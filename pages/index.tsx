@@ -5,11 +5,7 @@ import DataTable from "../components/DataTable";
 import styles from "../styles/Home.module.css";
 
 const Home: NextPage = () => {
-  return (
-    <>
-      <DataTable />
-    </>
-  );
+  return <>{/* <DataTable /> */}</>;
 };
 
 export default Home;
