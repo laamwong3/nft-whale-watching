@@ -15,21 +15,21 @@ const getAllOwners = async () => {
   let res;
   let accountedToken = [];
 
-  for (let i = 0; i < 5; i++) {
-    const response = await Moralis.Web3API.token.getContractNFTTransfers({
-      address: contractAddress,
-      chain: "eth",
-      limit: 3,
-      cursor: cursor,
-    });
+  const response = await Moralis.Web3API.token.getContractNFTTransfers({
+    address: contractAddress,
+    chain: "eth",
+    limit: 1,
+    cursor: cursor,
+  });
 
-    console.log(
-      `Got page ${response.page} of ${Math.ceil(
-        response.total / response.page_size
-      )}, ${response.total} in totals`
-    );
-    cursor = response.cursor;
-  }
+  console.log(response);
+
+  console.log(
+    `Got page ${response.page} of ${Math.ceil(
+      response.total / response.page_size
+    )}, ${response.total} in totals`
+  );
+  // cursor = response.cursor;
 };
 
 (async () => {
