@@ -18,11 +18,14 @@ const getAllOwners = async () => {
   const response = await Moralis.Web3API.token.getContractNFTTransfers({
     address: contractAddress,
     chain: "eth",
-    limit: 1,
+    limit: 10,
     cursor: cursor,
   });
 
-  console.log(response);
+  for (const transfer of response.result) {
+  }
+
+  // console.log(response);
 
   console.log(
     `Got page ${response.page} of ${Math.ceil(
