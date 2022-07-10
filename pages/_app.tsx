@@ -3,6 +3,7 @@ import type { AppProps } from "next/app";
 import { CssBaseline, ThemeProvider } from "@mui/material";
 import darkTheme from "../constants/darkTheme";
 import { MoralisProvider } from "react-moralis";
+import Layout from "../components/Layout";
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
@@ -12,7 +13,9 @@ function MyApp({ Component, pageProps }: AppProps) {
     >
       <ThemeProvider theme={darkTheme}>
         <CssBaseline />
-        <Component {...pageProps} />
+        <Layout>
+          <Component {...pageProps} />
+        </Layout>
       </ThemeProvider>
     </MoralisProvider>
   );
