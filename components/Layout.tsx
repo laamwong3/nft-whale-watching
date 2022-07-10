@@ -22,8 +22,8 @@ interface Props {
   children: React.ReactNode;
 }
 
-const drawerWidth = 240;
-const navItems: string[] = [""];
+// const drawerWidth = 240;
+// const navItems: string[] = [""];
 
 export default function Layout(props: Props) {
   const { window } = props;
@@ -33,23 +33,23 @@ export default function Layout(props: Props) {
     setMobileOpen(!mobileOpen);
   };
 
-  const drawer = (
-    <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
-      <Typography variant="h6" sx={{ my: 2 }}>
-        MUI
-      </Typography>
-      <Divider />
-      <List>
-        {navItems.map((item) => (
-          <ListItem key={item} disablePadding>
-            <ListItemButton sx={{ textAlign: "center" }}>
-              <ListItemText primary={item} />
-            </ListItemButton>
-          </ListItem>
-        ))}
-      </List>
-    </Box>
-  );
+  // const drawer = (
+  //   <Box onClick={handleDrawerToggle} sx={{ textAlign: "center" }}>
+  //     <Typography variant="h6" sx={{ my: 2 }}>
+  //       MUI
+  //     </Typography>
+  //     <Divider />
+  //     <List>
+  //       {navItems.map((item) => (
+  //         <ListItem key={item} disablePadding>
+  //           <ListItemButton sx={{ textAlign: "center" }}>
+  //             <ListItemText primary={item} />
+  //           </ListItemButton>
+  //         </ListItem>
+  //       ))}
+  //     </List>
+  //   </Box>
+  // );
 
   const container =
     window !== undefined ? () => window().document.body : undefined;
@@ -75,16 +75,17 @@ export default function Layout(props: Props) {
           >
             NFTs Whale Watch
           </Typography>
-          <Box sx={{ display: { xs: "none", sm: "block" } }}>
+          {/* <Box sx={{ display: { xs: "none", sm: "block" } }}>
             {navItems.map((item) => (
               <Button key={item} sx={{ color: "#fff" }}>
                 {item}
               </Button>
             ))}
-          </Box>
+          </Box> */}
         </Toolbar>
       </AppBar>
-      <Box component="nav">
+
+      {/* <Box component="nav">
         <Drawer
           container={container}
           variant="temporary"
@@ -103,8 +104,9 @@ export default function Layout(props: Props) {
         >
           {drawer}
         </Drawer>
-      </Box>
-      <Box component="main" sx={{ p: 5 }}>
+      </Box> */}
+
+      <Box width="100vw" sx={{ p: 5 }}>
         <Toolbar />
         {props.children}
       </Box>
