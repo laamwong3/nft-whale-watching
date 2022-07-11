@@ -11,6 +11,7 @@ import PlayArrowIcon from "@mui/icons-material/PlayArrow";
 import SkipNextIcon from "@mui/icons-material/SkipNext";
 import { CardActionArea, Stack } from "@mui/material";
 import Image, { StaticImageData } from "next/image";
+import { borderRadius } from "@mui/system";
 
 interface MenuCardPropsTypes {
   name: string;
@@ -19,11 +20,15 @@ interface MenuCardPropsTypes {
 
 export default function MenuCard({ name, image }: MenuCardPropsTypes) {
   return (
-    <Card sx={{ width: 200, display: "flex" }}>
+    <Card sx={{ width: 300, border: "5px solid black", borderRadius: 5 }}>
       <CardActionArea>
         <Stack direction="row">
-          <Typography>{name}</Typography>
-          <Image src={image} objectFit="cover" />
+          <Stack justifyContent="center" sx={{ flex: 1 }}>
+            <Typography textAlign="center">{name}</Typography>
+          </Stack>
+          <Box>
+            <Image src={image} height={100} width={100} />
+          </Box>
         </Stack>
       </CardActionArea>
     </Card>
