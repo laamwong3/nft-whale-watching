@@ -1,0 +1,516 @@
+{
+  "0x94aff1b7568c63d38c8f07981fba16d83b2b22ba": {
+    "owner": "0x94aff1b7568c63d38c8f07981fba16d83b2b22ba",
+    "amount": 1,
+    "tokenId": [
+      "8242"
+    ]
+  },
+  "0x2bb68c26e75b01d2cbb9b1d71432fc53c4c80350": {
+    "owner": "0x2bb68c26e75b01d2cbb9b1d71432fc53c4c80350",
+    "amount": 1,
+    "tokenId": [
+      "6287"
+    ]
+  },
+  "0x3c5fea291a6e4ba6523e4d53804969990860b362": {
+    "owner": "0x3c5fea291a6e4ba6523e4d53804969990860b362",
+    "amount": 1,
+    "tokenId": [
+      "1509"
+    ]
+  },
+  "0xf896527c49b44aab3cf22ae356fa3af8e331f280": {
+    "owner": "0xf896527c49b44aab3cf22ae356fa3af8e331f280",
+    "amount": 2,
+    "tokenId": [
+      "2751",
+      "2618"
+    ]
+  },
+  "0xc7a11661ec598aed0d6551dabc5c8947ed110143": {
+    "owner": "0xc7a11661ec598aed0d6551dabc5c8947ed110143",
+    "amount": 2,
+    "tokenId": [
+      "9823",
+      "900"
+    ]
+  },
+  "0xc3e2fa491f1f2a36407f5ef3561b4bbc7851ef80": {
+    "owner": "0xc3e2fa491f1f2a36407f5ef3561b4bbc7851ef80",
+    "amount": 1,
+    "tokenId": [
+      "6436"
+    ]
+  },
+  "0xb66208276563c538cdeb5cf37c815a14c915ac1f": {
+    "owner": "0xb66208276563c538cdeb5cf37c815a14c915ac1f",
+    "amount": 1,
+    "tokenId": [
+      "9880"
+    ]
+  },
+  "0xbb74239e6b33857523ec9b37a33c8fdf1d25d127": {
+    "owner": "0xbb74239e6b33857523ec9b37a33c8fdf1d25d127",
+    "amount": 1,
+    "tokenId": [
+      "7437"
+    ]
+  },
+  "0xf278df7ded9280375b2f54dcb3e05d740f8f9191": {
+    "owner": "0xf278df7ded9280375b2f54dcb3e05d740f8f9191",
+    "amount": 1,
+    "tokenId": [
+      "8644"
+    ]
+  },
+  "0xe91d95ba259c6d8001a06deaf02f811baa3e2dfa": {
+    "owner": "0xe91d95ba259c6d8001a06deaf02f811baa3e2dfa",
+    "amount": 1,
+    "tokenId": [
+      "9301"
+    ]
+  },
+  "0xdd6b2e29a152f2034d6f8bfbe7ce9eb0fc69cef6": {
+    "owner": "0xdd6b2e29a152f2034d6f8bfbe7ce9eb0fc69cef6",
+    "amount": 1,
+    "tokenId": [
+      "6759"
+    ]
+  },
+  "0x962871224822525c963d2d397b728a2aead83a1b": {
+    "owner": "0x962871224822525c963d2d397b728a2aead83a1b",
+    "amount": 3,
+    "tokenId": [
+      "5770",
+      "5779",
+      "7996"
+    ]
+  },
+  "0xc54fba1d1b1a45aaabdffb62410fccc79e0e3acb": {
+    "owner": "0xc54fba1d1b1a45aaabdffb62410fccc79e0e3acb",
+    "amount": 1,
+    "tokenId": [
+      "614"
+    ]
+  },
+  "0xeb5822c32ef52bc46327633e78dd723d6fe08566": {
+    "owner": "0xeb5822c32ef52bc46327633e78dd723d6fe08566",
+    "amount": 1,
+    "tokenId": [
+      "8893"
+    ]
+  },
+  "0x5062f4565babcf304bf147b821cf73c8da666028": {
+    "owner": "0x5062f4565babcf304bf147b821cf73c8da666028",
+    "amount": 1,
+    "tokenId": [
+      "1339"
+    ]
+  },
+  "0x010472c60fbcbe0ecd1ebfb05485b01d2f2284f0": {
+    "owner": "0x010472c60fbcbe0ecd1ebfb05485b01d2f2284f0",
+    "amount": 1,
+    "tokenId": [
+      "4271"
+    ]
+  },
+  "0xf2cf7378e44be078732c215fad97af709379ca1d": {
+    "owner": "0xf2cf7378e44be078732c215fad97af709379ca1d",
+    "amount": 1,
+    "tokenId": [
+      "5408"
+    ]
+  },
+  "0x3b25d7acbe1b599f3ad4254569e98abecfe39a77": {
+    "owner": "0x3b25d7acbe1b599f3ad4254569e98abecfe39a77",
+    "amount": 1,
+    "tokenId": [
+      "2908"
+    ]
+  },
+  "0xd213fb4b68d9ddb6e184efff7b60049ddfe7cbe8": {
+    "owner": "0xd213fb4b68d9ddb6e184efff7b60049ddfe7cbe8",
+    "amount": 1,
+    "tokenId": [
+      "1983"
+    ]
+  },
+  "0x095f4c926278601025130ac49bf298039fa5fd04": {
+    "owner": "0x095f4c926278601025130ac49bf298039fa5fd04",
+    "amount": 1,
+    "tokenId": [
+      "4722"
+    ]
+  },
+  "0x33ff766b7e102da2b17cc2472bc316253d9382f9": {
+    "owner": "0x33ff766b7e102da2b17cc2472bc316253d9382f9",
+    "amount": 1,
+    "tokenId": [
+      "399"
+    ]
+  },
+  "0x99303bd4c519115c94c080a80e3e771e503e5707": {
+    "owner": "0x99303bd4c519115c94c080a80e3e771e503e5707",
+    "amount": 1,
+    "tokenId": [
+      "1707"
+    ]
+  },
+  "0x65a77f6fd2eba65996a75a4575cada488da1f8f3": {
+    "owner": "0x65a77f6fd2eba65996a75a4575cada488da1f8f3",
+    "amount": 1,
+    "tokenId": [
+      "9582"
+    ]
+  },
+  "0x588477f579fe32a0a1ed308dcb50f68eb27feb66": {
+    "owner": "0x588477f579fe32a0a1ed308dcb50f68eb27feb66",
+    "amount": 1,
+    "tokenId": [
+      "1095"
+    ]
+  },
+  "0x4e279732f1104af0e7c9b225b649d3d0cb172562": {
+    "owner": "0x4e279732f1104af0e7c9b225b649d3d0cb172562",
+    "amount": 2,
+    "tokenId": [
+      "8439",
+      "3789"
+    ]
+  },
+  "0xe6358971ffe309e592908d3bdc1eda603658901f": {
+    "owner": "0xe6358971ffe309e592908d3bdc1eda603658901f",
+    "amount": 1,
+    "tokenId": [
+      "2648"
+    ]
+  },
+  "0x2c26821e4a2e9d1ac9328b4e2510c635ecdf8f68": {
+    "owner": "0x2c26821e4a2e9d1ac9328b4e2510c635ecdf8f68",
+    "amount": 1,
+    "tokenId": [
+      "1610"
+    ]
+  },
+  "0xc1af2a2cd32d90132080439199bdccc269482bcb": {
+    "owner": "0xc1af2a2cd32d90132080439199bdccc269482bcb",
+    "amount": 1,
+    "tokenId": [
+      "2674"
+    ]
+  },
+  "0x816f526075809713edd8e9a344f8ebd44550904b": {
+    "owner": "0x816f526075809713edd8e9a344f8ebd44550904b",
+    "amount": 1,
+    "tokenId": [
+      "1051"
+    ]
+  },
+  "0x1a9ab632acbc2fbfded92cc53c9c28cb536c5413": {
+    "owner": "0x1a9ab632acbc2fbfded92cc53c9c28cb536c5413",
+    "amount": 1,
+    "tokenId": [
+      "1067"
+    ]
+  },
+  "0xd26e44b66ddca693049f21751bda2b5eea1b4015": {
+    "owner": "0xd26e44b66ddca693049f21751bda2b5eea1b4015",
+    "amount": 4,
+    "tokenId": [
+      "6112",
+      "9412",
+      "6248",
+      "2942"
+    ]
+  },
+  "0x475e8d26f277158a2796743ec846664876fee270": {
+    "owner": "0x475e8d26f277158a2796743ec846664876fee270",
+    "amount": 1,
+    "tokenId": [
+      "6249"
+    ]
+  },
+  "0x9675b0ed61d85ad9c0f16ae071b7002c5747caca": {
+    "owner": "0x9675b0ed61d85ad9c0f16ae071b7002c5747caca",
+    "amount": 3,
+    "tokenId": [
+      "7573",
+      "669",
+      "7245"
+    ]
+  },
+  "0x0c80a1162a061d1c63743fef56204c3fca45074f": {
+    "owner": "0x0c80a1162a061d1c63743fef56204c3fca45074f",
+    "amount": 1,
+    "tokenId": [
+      "972"
+    ]
+  },
+  "0xd8770cd1681308381bb041802f922f4cf5e1bc4d": {
+    "owner": "0xd8770cd1681308381bb041802f922f4cf5e1bc4d",
+    "amount": 1,
+    "tokenId": [
+      "2506"
+    ]
+  },
+  "0xca8caa44509f2822b9761a2434b08dac92b83613": {
+    "owner": "0xca8caa44509f2822b9761a2434b08dac92b83613",
+    "amount": 1,
+    "tokenId": [
+      "663"
+    ]
+  },
+  "0x5b2a22b0ef55511fe87384c7c54646e7989c5dd7": {
+    "owner": "0x5b2a22b0ef55511fe87384c7c54646e7989c5dd7",
+    "amount": 1,
+    "tokenId": [
+      "1100"
+    ]
+  },
+  "0x80c111e9b18b418dc7ceadafc99c3dec81447016": {
+    "owner": "0x80c111e9b18b418dc7ceadafc99c3dec81447016",
+    "amount": 3,
+    "tokenId": [
+      "2242",
+      "2468",
+      "4685"
+    ]
+  },
+  "0xf4fd60b395293f541cdd9341ab793db96ff6f092": {
+    "owner": "0xf4fd60b395293f541cdd9341ab793db96ff6f092",
+    "amount": 1,
+    "tokenId": [
+      "9138"
+    ]
+  },
+  "0xf2439241881964006369c0e2377d45f3740f48a0": {
+    "owner": "0xf2439241881964006369c0e2377d45f3740f48a0",
+    "amount": 1,
+    "tokenId": [
+      "6808"
+    ]
+  },
+  "0x276417be271dbeb696cb97cda7c6982fd89e6bd4": {
+    "owner": "0x276417be271dbeb696cb97cda7c6982fd89e6bd4",
+    "amount": 1,
+    "tokenId": [
+      "6983"
+    ]
+  },
+  "0x0a97e95e9c2065862769b5d7c4249699f1110cb1": {
+    "owner": "0x0a97e95e9c2065862769b5d7c4249699f1110cb1",
+    "amount": 1,
+    "tokenId": [
+      "686"
+    ]
+  },
+  "0xd0695f478fa223ebc319b3402ed75bb9e1c035c1": {
+    "owner": "0xd0695f478fa223ebc319b3402ed75bb9e1c035c1",
+    "amount": 1,
+    "tokenId": [
+      "5267"
+    ]
+  },
+  "0x4de7b2f8160fa083f90d4900eae448dbc9abb1c8": {
+    "owner": "0x4de7b2f8160fa083f90d4900eae448dbc9abb1c8",
+    "amount": 1,
+    "tokenId": [
+      "9476"
+    ]
+  },
+  "0x1c62cec6b8cbd755ac039fd8ceee0205b796049e": {
+    "owner": "0x1c62cec6b8cbd755ac039fd8ceee0205b796049e",
+    "amount": 1,
+    "tokenId": [
+      "5186"
+    ]
+  },
+  "0x2efb798f5f77b6aa5d9bdf620228817c842cf36d": {
+    "owner": "0x2efb798f5f77b6aa5d9bdf620228817c842cf36d",
+    "amount": 3,
+    "tokenId": [
+      "5303",
+      "7384",
+      "3771"
+    ]
+  },
+  "0x2f4e66f84a13abb2d911f1d72ed060ae7847f7a5": {
+    "owner": "0x2f4e66f84a13abb2d911f1d72ed060ae7847f7a5",
+    "amount": 1,
+    "tokenId": [
+      "5286"
+    ]
+  },
+  "0x44b51387773ce3581156d9accb27849a204f31dc": {
+    "owner": "0x44b51387773ce3581156d9accb27849a204f31dc",
+    "amount": 1,
+    "tokenId": [
+      "9340"
+    ]
+  },
+  "0x9a49be566a738f0da7cf5f107343c78fefb40050": {
+    "owner": "0x9a49be566a738f0da7cf5f107343c78fefb40050",
+    "amount": 2,
+    "tokenId": [
+      "7142",
+      "9674"
+    ]
+  },
+  "0x2c1514efa2a19f9660a4cbc57ae2ac6376daf91f": {
+    "owner": "0x2c1514efa2a19f9660a4cbc57ae2ac6376daf91f",
+    "amount": 1,
+    "tokenId": [
+      "8751"
+    ]
+  },
+  "0xa5c2093c978a46b5721e5435ffdbecf1ecf6c7cd": {
+    "owner": "0xa5c2093c978a46b5721e5435ffdbecf1ecf6c7cd",
+    "amount": 1,
+    "tokenId": [
+      "8758"
+    ]
+  },
+  "0xfaa38e13d06e69ec8466c539a06f94934af4c782": {
+    "owner": "0xfaa38e13d06e69ec8466c539a06f94934af4c782",
+    "amount": 1,
+    "tokenId": [
+      "1684"
+    ]
+  },
+  "0xd46c8648f2ac4ce1a1aace620460fbd24f640853": {
+    "owner": "0xd46c8648f2ac4ce1a1aace620460fbd24f640853",
+    "amount": 2,
+    "tokenId": [
+      "1716",
+      "1594"
+    ]
+  },
+  "0xe42f35fb3e55f5a080dfe7eb29e02baeece2d1ce": {
+    "owner": "0xe42f35fb3e55f5a080dfe7eb29e02baeece2d1ce",
+    "amount": 2,
+    "tokenId": [
+      "5563",
+      "935"
+    ]
+  },
+  "0x0394a2d392564aba9db2f38c2d26c2fd34968247": {
+    "owner": "0x0394a2d392564aba9db2f38c2d26c2fd34968247",
+    "amount": 1,
+    "tokenId": [
+      "2227"
+    ]
+  },
+  "0x824160f2aae7bae31f7719582c0a3f528a60fe6d": {
+    "owner": "0x824160f2aae7bae31f7719582c0a3f528a60fe6d",
+    "amount": 1,
+    "tokenId": [
+      "9314"
+    ]
+  },
+  "0x7ccbfe370baa2bf16bd822d60a1b4f98943b4885": {
+    "owner": "0x7ccbfe370baa2bf16bd822d60a1b4f98943b4885",
+    "amount": 1,
+    "tokenId": [
+      "9558"
+    ]
+  },
+  "0xaafa1fe3b8c0b2f0d0305bcc3641dfa326567bce": {
+    "owner": "0xaafa1fe3b8c0b2f0d0305bcc3641dfa326567bce",
+    "amount": 1,
+    "tokenId": [
+      "9712"
+    ]
+  },
+  "0xbf668ea874660a81752391b78d53b498cba95877": {
+    "owner": "0xbf668ea874660a81752391b78d53b498cba95877",
+    "amount": 1,
+    "tokenId": [
+      "5046"
+    ]
+  },
+  "0x7baa4e405e3fd07d361d5530e4a6180954106ee4": {
+    "owner": "0x7baa4e405e3fd07d361d5530e4a6180954106ee4",
+    "amount": 1,
+    "tokenId": [
+      "223"
+    ]
+  },
+  "0xa6a519a1758cae4572e6b37d355b47ce801d9709": {
+    "owner": "0xa6a519a1758cae4572e6b37d355b47ce801d9709",
+    "amount": 3,
+    "tokenId": [
+      "1559",
+      "5881",
+      "4871"
+    ]
+  },
+  "0xa8189c566c8b602e23b016da819c11dae50160d6": {
+    "owner": "0xa8189c566c8b602e23b016da819c11dae50160d6",
+    "amount": 13,
+    "tokenId": [
+      "9648",
+      "1365",
+      "8303",
+      "8950",
+      "1233",
+      "519",
+      "4231",
+      "2855",
+      "256",
+      "6193",
+      "1656",
+      "8123",
+      "1928"
+    ]
+  },
+  "0xd230da3caf56de52722037e401e25c4224dab419": {
+    "owner": "0xd230da3caf56de52722037e401e25c4224dab419",
+    "amount": 1,
+    "tokenId": [
+      "7028"
+    ]
+  },
+  "0xbe544fbc9aed531d9f397d557e8ed0f69ad481d0": {
+    "owner": "0xbe544fbc9aed531d9f397d557e8ed0f69ad481d0",
+    "amount": 1,
+    "tokenId": [
+      "53"
+    ]
+  },
+  "0x07ea7aa7a752c8076a04346815ac80887422a191": {
+    "owner": "0x07ea7aa7a752c8076a04346815ac80887422a191",
+    "amount": 1,
+    "tokenId": [
+      "4157"
+    ]
+  },
+  "0xfa621bbc0e434c400aa45d631b9bb97be11e44c3": {
+    "owner": "0xfa621bbc0e434c400aa45d631b9bb97be11e44c3",
+    "amount": 1,
+    "tokenId": [
+      "9242"
+    ]
+  },
+  "0xcd7270d1574e3513068606eed084d98e76b27e2c": {
+    "owner": "0xcd7270d1574e3513068606eed084d98e76b27e2c",
+    "amount": 1,
+    "tokenId": [
+      "5221"
+    ]
+  },
+  "0x0d7661a7b7a89b40b6db128900557e4f1d1b3789": {
+    "owner": "0x0d7661a7b7a89b40b6db128900557e4f1d1b3789",
+    "amount": 1,
+    "tokenId": [
+      "5292"
+    ]
+  },
+  "0xed8f21887b40b65a963e1b0fb10e3d700aaac9ff": {
+    "owner": "0xed8f21887b40b65a963e1b0fb10e3d700aaac9ff",
+    "amount": 1,
+    "tokenId": [
+      "6298"
+    ]
+  }
+}

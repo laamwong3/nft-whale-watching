@@ -1,0 +1,958 @@
+{
+  "0xb66208276563c538cdeb5cf37c815a14c915ac1f": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xb66208276563c538cdeb5cf37c815a14c915ac1f",
+      "seller": "0x50a243c6ba11d4938ac2579ac71b2a1c13666c3b",
+      "tokenId": "9880",
+      "price": "12880000000000000000",
+      "date": "2022-07-11T18:07:24.000Z"
+    }
+  ],
+  "0xbb74239e6b33857523ec9b37a33c8fdf1d25d127": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xbb74239e6b33857523ec9b37a33c8fdf1d25d127",
+      "seller": "0x08cc4a936a24a278097feb566fccf71ffe84a833",
+      "tokenId": "7437",
+      "price": "13500000000000000000",
+      "date": "2022-07-11T17:24:49.000Z"
+    }
+  ],
+  "0xe91d95ba259c6d8001a06deaf02f811baa3e2dfa": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xe91d95ba259c6d8001a06deaf02f811baa3e2dfa",
+      "seller": "0x1132a8799c89538ce616bcd886e69afe2d5a0ea2",
+      "tokenId": "9301",
+      "price": "13300000000000000000",
+      "date": "2022-07-11T16:48:41.000Z"
+    }
+  ],
+  "0x588477f579fe32a0a1ed308dcb50f68eb27feb66": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x588477f579fe32a0a1ed308dcb50f68eb27feb66",
+      "seller": "0xee3b3cc4e1a6782824202e48c2d8b93922882a3a",
+      "tokenId": "1095",
+      "price": "13900000000000000000",
+      "date": "2022-07-11T07:46:45.000Z"
+    }
+  ],
+  "0x4e279732f1104af0e7c9b225b649d3d0cb172562": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x4e279732f1104af0e7c9b225b649d3d0cb172562",
+      "seller": "0xef9813056acabfa38622c79ee6167990f21c14e7",
+      "tokenId": "3789",
+      "price": "14900000000000000000",
+      "date": "2022-07-11T06:58:35.000Z"
+    }
+  ],
+  "0xe6358971ffe309e592908d3bdc1eda603658901f": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xe6358971ffe309e592908d3bdc1eda603658901f",
+      "seller": "0xd838b25b1a5fe89bf2d543dab98c93adda50ef6e",
+      "tokenId": "2648",
+      "price": "12990000000000000000",
+      "date": "2022-07-11T06:53:11.000Z"
+    }
+  ],
+  "0xe1bb21b5258bee16fd56a3e9cc539cb50efc3920": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xe1bb21b5258bee16fd56a3e9cc539cb50efc3920",
+      "seller": "0xbc167c94dd62d030585c621c86c82bd00d630323",
+      "tokenId": "1051",
+      "price": "13500000000000000000",
+      "date": "2022-07-11T05:32:14.000Z"
+    }
+  ],
+  "0x1a9ab632acbc2fbfded92cc53c9c28cb536c5413": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x1a9ab632acbc2fbfded92cc53c9c28cb536c5413",
+      "seller": "0x08cc4a936a24a278097feb566fccf71ffe84a833",
+      "tokenId": "1067",
+      "price": "13500000000000000000",
+      "date": "2022-07-11T04:17:52.000Z"
+    }
+  ],
+  "0x5b2a22b0ef55511fe87384c7c54646e7989c5dd7": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5b2a22b0ef55511fe87384c7c54646e7989c5dd7",
+      "seller": "0xd63b2b9cfecf66fd5f63fd863d2f31b3425d0340",
+      "tokenId": "1100",
+      "price": "15000000000000000000",
+      "date": "2022-07-11T00:06:41.000Z"
+    }
+  ],
+  "0xba4bb4e7102229d0f288f04bea3ea7e61c9c2ab6": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xba4bb4e7102229d0f288f04bea3ea7e61c9c2ab6",
+      "seller": "0x5b2a22b0ef55511fe87384c7c54646e7989c5dd7",
+      "tokenId": "9138",
+      "price": "13000000000000000000",
+      "date": "2022-07-10T22:17:26.000Z"
+    }
+  ],
+  "0xef9813056acabfa38622c79ee6167990f21c14e7": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xef9813056acabfa38622c79ee6167990f21c14e7",
+      "seller": "0x1b33fda48e68efbed3acae80f1b05e7105059b3e",
+      "tokenId": "3789",
+      "price": "12800000000000000000",
+      "date": "2022-07-10T14:02:09.000Z"
+    }
+  ],
+  "0xe42f35fb3e55f5a080dfe7eb29e02baeece2d1ce": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xe42f35fb3e55f5a080dfe7eb29e02baeece2d1ce",
+      "seller": "0x1abda388349f8d3b5787396fde07f8b25b8f5089",
+      "tokenId": "5563",
+      "price": "12420689999999998000",
+      "date": "2022-07-10T05:50:47.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xe42f35fb3e55f5a080dfe7eb29e02baeece2d1ce",
+      "seller": "0x6f133b985501dbc3a697fb5244924b57c5ac8c72",
+      "tokenId": "935",
+      "price": "18900000000000000000",
+      "date": "2022-07-10T04:15:30.000Z"
+    }
+  ],
+  "0x0394a2d392564aba9db2f38c2d26c2fd34968247": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0394a2d392564aba9db2f38c2d26c2fd34968247",
+      "seller": "0x828702fc0c977f0b347c998c107df77618f85e87",
+      "tokenId": "2227",
+      "price": "12400000000000000000",
+      "date": "2022-07-10T05:30:03.000Z"
+    }
+  ],
+  "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x7bdc7ec8841cd7e8f463a5fc7f6f21c858e9a483",
+      "tokenId": "1656",
+      "price": "16000000000000000000",
+      "date": "2022-07-10T04:01:30.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x47688f0c7f87413888a94c544f3ed856500229f8",
+      "tokenId": "1928",
+      "price": "12000000000000000000",
+      "date": "2022-07-10T03:54:24.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0xcf2e155ff157494de3248ddc41cc8fda936d6040",
+      "tokenId": "6193",
+      "price": "12300000000000000000",
+      "date": "2022-07-10T03:53:32.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0xc0520be61fc663cdd650da392dd9bfa1c0c171f9",
+      "tokenId": "256",
+      "price": "12000000000000000000",
+      "date": "2022-07-10T03:52:55.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0xd5c030e041d56acd9c3461f3e564d6d67d0117b2",
+      "tokenId": "9648",
+      "price": "11950000000000000000",
+      "date": "2022-07-10T03:51:47.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x2a5621b28607745cecace0190d2b2a47f88cedbe",
+      "tokenId": "8950",
+      "price": "12000000000000000000",
+      "date": "2022-07-10T03:49:10.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0xef9813056acabfa38622c79ee6167990f21c14e7",
+      "tokenId": "4231",
+      "price": "12990000000000000000",
+      "date": "2022-07-10T03:48:01.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x3165f19c8753b86c8cc654b8a09a18540ed2543f",
+      "tokenId": "1233",
+      "price": "12990000000000000000",
+      "date": "2022-07-10T03:46:45.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0xa199b54f578f7a951d18ba552d2a2ed43d6ba26c",
+      "tokenId": "8303",
+      "price": "12880000000000000000",
+      "date": "2022-07-10T03:45:55.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x88c405b05f99795b544ee4ce93eefda06afcdd79",
+      "tokenId": "8123",
+      "price": "12000000000000000000",
+      "date": "2022-07-10T03:45:29.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x908722c6bb6a58b2a77f13421f1a4b0a17c0e75f",
+      "tokenId": "519",
+      "price": "11750000000000000000",
+      "date": "2022-07-10T03:44:45.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x1ef4de2a90f4df3c92327f242ba1a34ce519319d",
+      "tokenId": "1365",
+      "price": "11499900000000000000",
+      "date": "2022-07-10T03:44:34.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0xb91b3dec63690356bdfc2d664cdae19b3d96e5a1",
+      "tokenId": "2855",
+      "price": "14888888000000000000",
+      "date": "2022-07-10T03:42:37.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5d844a343fdade8deb4992f8fcdd1ee2200f03a4",
+      "seller": "0x1abda388349f8d3b5787396fde07f8b25b8f5089",
+      "tokenId": "4959",
+      "price": "18880000000000000000",
+      "date": "2022-07-04T13:58:47.000Z"
+    }
+  ],
+  "0xbe544fbc9aed531d9f397d557e8ed0f69ad481d0": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xbe544fbc9aed531d9f397d557e8ed0f69ad481d0",
+      "seller": "0xb4debf1547c4df92ccf15ae0c70a61ae6e5f002d",
+      "tokenId": "53",
+      "price": "11890000000000000000",
+      "date": "2022-07-10T03:09:41.000Z"
+    }
+  ],
+  "0x07ea7aa7a752c8076a04346815ac80887422a191": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x07ea7aa7a752c8076a04346815ac80887422a191",
+      "seller": "0x08cc4a936a24a278097feb566fccf71ffe84a833",
+      "tokenId": "4157",
+      "price": "13500000000000000000",
+      "date": "2022-07-10T00:45:11.000Z"
+    }
+  ],
+  "0x0d7661a7b7a89b40b6db128900557e4f1d1b3789": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0d7661a7b7a89b40b6db128900557e4f1d1b3789",
+      "seller": "0xc2144a4e236ddd95224acd16f7d73128c9d3f8b8",
+      "tokenId": "5292",
+      "price": "11000000000000000000",
+      "date": "2022-07-09T22:33:18.000Z"
+    }
+  ],
+  "0x1a9a4932f36b3641f5f63e98f77f8a1f28d85dad": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x1a9a4932f36b3641f5f63e98f77f8a1f28d85dad",
+      "seller": "0x696969536948c9902a622ddb9d959ae4038f5cbb",
+      "tokenId": "2506",
+      "price": "10990000000000000000",
+      "date": "2022-07-09T20:30:58.000Z"
+    }
+  ],
+  "0x74c5c82d9952bd6373b1d264ba02ccc02fa0ba25": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x74c5c82d9952bd6373b1d264ba02ccc02fa0ba25",
+      "seller": "0xbfdf30d1c5b9f6b34a18a25244adbe1c1be9c06b",
+      "tokenId": "8162",
+      "price": "824250000000000000",
+      "date": "2022-07-09T18:42:07.000Z"
+    }
+  ],
+  "0x313ed53612f0de55c6a68357c09b028112213014": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x313ed53612f0de55c6a68357c09b028112213014",
+      "seller": "0x80c9af2db8b6870e0ffabe70e1bd79d3b546fe6c",
+      "tokenId": "3848",
+      "price": "12000000000000000000",
+      "date": "2022-07-09T10:31:03.000Z"
+    }
+  ],
+  "0x4c928f80189c8beb6ee3d9698a196d2ad397413c": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x4c928f80189c8beb6ee3d9698a196d2ad397413c",
+      "seller": "0x25cd974516e471d0302c3f07ef01f243f9367d81",
+      "tokenId": "5500",
+      "price": "11181226851851852000",
+      "date": "2022-07-09T09:05:30.000Z"
+    }
+  ],
+  "0x13792e30c27ef7ab7e224bc81ea3b6561410bce9": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x13792e30c27ef7ab7e224bc81ea3b6561410bce9",
+      "seller": "0x80c9af2db8b6870e0ffabe70e1bd79d3b546fe6c",
+      "tokenId": "7784",
+      "price": "12000000000000000000",
+      "date": "2022-07-09T07:25:02.000Z"
+    }
+  ],
+  "0x7cac437746d3ced9ec6ecc678b42142298e29a6b": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x7cac437746d3ced9ec6ecc678b42142298e29a6b",
+      "seller": "0x80c9af2db8b6870e0ffabe70e1bd79d3b546fe6c",
+      "tokenId": "6225",
+      "price": "12000000000000000000",
+      "date": "2022-07-09T04:52:17.000Z"
+    }
+  ],
+  "0xf1c5a4e7cdd9e9aae34b559dd5081566a1940e82": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xf1c5a4e7cdd9e9aae34b559dd5081566a1940e82",
+      "seller": "0x80c9af2db8b6870e0ffabe70e1bd79d3b546fe6c",
+      "tokenId": "8331",
+      "price": "12000000000000000000",
+      "date": "2022-07-09T04:42:42.000Z"
+    }
+  ],
+  "0x628486f3166e88e8bc0c4df900d7580b9fc602b1": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x628486f3166e88e8bc0c4df900d7580b9fc602b1",
+      "seller": "0x256843ea6be2f80d77bb104f74440aa74e77eaa9",
+      "tokenId": "9422",
+      "price": "12000000000000000000",
+      "date": "2022-07-09T02:48:41.000Z"
+    }
+  ],
+  "0xa4c08137e0a0401b0c94c2e7ee1794f258bcb228": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xa4c08137e0a0401b0c94c2e7ee1794f258bcb228",
+      "seller": "0x010472c60fbcbe0ecd1ebfb05485b01d2f2284f0",
+      "tokenId": "1026",
+      "price": "13300000000000000000",
+      "date": "2022-07-08T19:40:36.000Z"
+    }
+  ],
+  "0xfcb5b493cd2abe568209a83d679169f3ecc7bf32": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xfcb5b493cd2abe568209a83d679169f3ecc7bf32",
+      "seller": "0x11bf5beca21a2dff24ebc4d870b2b489982b850a",
+      "tokenId": "6034",
+      "price": "15000000000000000000",
+      "date": "2022-07-08T19:10:43.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xfcb5b493cd2abe568209a83d679169f3ecc7bf32",
+      "seller": "0x6d8c8f4197b9bfa5a0f3fed6a9e5722f9a5876da",
+      "tokenId": "9968",
+      "price": "14000000000000000000",
+      "date": "2022-07-07T17:40:37.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xfcb5b493cd2abe568209a83d679169f3ecc7bf32",
+      "seller": "0x0a12d307381525bb7340dd06c68c9dee6dd83bb6",
+      "tokenId": "4449",
+      "price": "12900000000000000000",
+      "date": "2022-07-06T21:58:47.000Z"
+    }
+  ],
+  "0x3e278557e4e47815aa25de5d83e264e34b977b4c": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3e278557e4e47815aa25de5d83e264e34b977b4c",
+      "seller": "0x4be2bc4d61e8476659a8c8bb5494bde5f3f79d14",
+      "tokenId": "6435",
+      "price": "12000000000000000000",
+      "date": "2022-07-08T15:13:56.000Z"
+    }
+  ],
+  "0x011a991df27fb53637b7319d3a43e91b5da5b4e8": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x011a991df27fb53637b7319d3a43e91b5da5b4e8",
+      "seller": "0x8bad8d7af88514fe118c1a157430ac8dcb7910cf",
+      "tokenId": "654",
+      "price": "11250000000000000000",
+      "date": "2022-07-08T14:04:17.000Z"
+    }
+  ],
+  "0x0e28083f4cbf8d4c32ab2b09339183d14acb9f55": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0e28083f4cbf8d4c32ab2b09339183d14acb9f55",
+      "seller": "0x011a991df27fb53637b7319d3a43e91b5da5b4e8",
+      "tokenId": "8207",
+      "price": "11940000000000000000",
+      "date": "2022-07-08T13:46:01.000Z"
+    }
+  ],
+  "0x94aff1b7568c63d38c8f07981fba16d83b2b22ba": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x94aff1b7568c63d38c8f07981fba16d83b2b22ba",
+      "seller": "0x4be2bc4d61e8476659a8c8bb5494bde5f3f79d14",
+      "tokenId": "3109",
+      "price": "12000000000000000000",
+      "date": "2022-07-08T11:56:38.000Z"
+    }
+  ],
+  "0x8a818046e7b4345038ede9ff638822d103b45049": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x8a818046e7b4345038ede9ff638822d103b45049",
+      "seller": "0xd00d15570e7b1847b28c34dae1726b1fa9b4fa71",
+      "tokenId": "8001",
+      "price": "12500000000000000000",
+      "date": "2022-07-08T11:51:42.000Z"
+    }
+  ],
+  "0x8018bbadf493a80051ab73b83df31d1bf37790b6": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x8018bbadf493a80051ab73b83df31d1bf37790b6",
+      "seller": "0x1021b3846631a428d82c8bf7ad8e0ee4b19d7718",
+      "tokenId": "9859",
+      "price": "12000000000000000000",
+      "date": "2022-07-08T10:17:44.000Z"
+    }
+  ],
+  "0x0d8e3e9f01b392e769c1eea44c4736c2d7f3cf96": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0d8e3e9f01b392e769c1eea44c4736c2d7f3cf96",
+      "seller": "0x471e2fe4886c4d79b6ba52bff998e313a9b2bdee",
+      "tokenId": "6180",
+      "price": "12100000000000000000",
+      "date": "2022-07-08T00:56:39.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0d8e3e9f01b392e769c1eea44c4736c2d7f3cf96",
+      "seller": "0xc6634264819cc5ac2692c9ede685774618a4198d",
+      "tokenId": "7802",
+      "price": "11498000000000000000",
+      "date": "2022-07-08T00:56:13.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0d8e3e9f01b392e769c1eea44c4736c2d7f3cf96",
+      "seller": "0x08cc4a936a24a278097feb566fccf71ffe84a833",
+      "tokenId": "7215",
+      "price": "13500000000000000000",
+      "date": "2022-07-08T00:55:00.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0d8e3e9f01b392e769c1eea44c4736c2d7f3cf96",
+      "seller": "0xdeae38389a9ec57c8810855aee8a6927e5b93054",
+      "tokenId": "6086",
+      "price": "13330000000000000000",
+      "date": "2022-07-06T00:14:56.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0d8e3e9f01b392e769c1eea44c4736c2d7f3cf96",
+      "seller": "0xfffa6fc6acc3dbe04b175862376f1c5ff88cf9c1",
+      "tokenId": "3661",
+      "price": "13500000000000000000",
+      "date": "2022-07-06T00:14:56.000Z"
+    }
+  ],
+  "0xc7a11661ec598aed0d6551dabc5c8947ed110143": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xc7a11661ec598aed0d6551dabc5c8947ed110143",
+      "seller": "0x7685b32c33031e86fbdd2b336312a14b937348b7",
+      "tokenId": "9829",
+      "price": "10770000000000000000",
+      "date": "2022-07-07T15:53:49.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xc7a11661ec598aed0d6551dabc5c8947ed110143",
+      "seller": "0x775455eda884e8e18dfef9720fdda0d794ecbed5",
+      "tokenId": "8015",
+      "price": "11000000000000000000",
+      "date": "2022-07-07T00:35:45.000Z"
+    }
+  ],
+  "0x4d7ba171566b6bee0f501917b014f534397f6d0e": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x4d7ba171566b6bee0f501917b014f534397f6d0e",
+      "seller": "0x302dfdfddb63f92c2c9985b0a6f9276f8697b436",
+      "tokenId": "8538",
+      "price": "14000000000000000000",
+      "date": "2022-07-07T12:22:23.000Z"
+    },
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x4d7ba171566b6bee0f501917b014f534397f6d0e",
+      "seller": "0x296ef35aadee6f5cd0156549b673814fd27b7b77",
+      "tokenId": "1249",
+      "price": "12000000000000000000",
+      "date": "2022-07-04T20:27:28.000Z"
+    }
+  ],
+  "0xf8c88df332628485c3a5ad84eb241c10588132b5": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xf8c88df332628485c3a5ad84eb241c10588132b5",
+      "seller": "0x52e00008a9ab96d024d5405e07fa3b378b421b57",
+      "tokenId": "6798",
+      "price": "13500000000000000000",
+      "date": "2022-07-07T07:23:00.000Z"
+    }
+  ],
+  "0x28b5d4ee16d052adcbe5804abade4f8181ea0f51": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x28b5d4ee16d052adcbe5804abade4f8181ea0f51",
+      "seller": "0x999999b2173a81c2b20e202c3d22e0473f6517b6",
+      "tokenId": "4753",
+      "price": "12498000000000000000",
+      "date": "2022-07-07T07:20:14.000Z"
+    }
+  ],
+  "0xfd9bf6bdb3af9d393d0fc732658119d92406e6e4": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xfd9bf6bdb3af9d393d0fc732658119d92406e6e4",
+      "seller": "0x7bdc7ec8841cd7e8f463a5fc7f6f21c858e9a483",
+      "tokenId": "3916",
+      "price": "17000000000000000000",
+      "date": "2022-07-07T06:53:42.000Z"
+    }
+  ],
+  "0x962871224822525c963d2d397b728a2aead83a1b": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x962871224822525c963d2d397b728a2aead83a1b",
+      "seller": "0xe4d4a8ac73fab3ac770a9847b62b392290d32bac",
+      "tokenId": "9558",
+      "price": "18500000000000000000",
+      "date": "2022-07-07T02:23:43.000Z"
+    }
+  ],
+  "0x888d171cf832422978700ee1183ab787ed20633b": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x888d171cf832422978700ee1183ab787ed20633b",
+      "seller": "0x1eb4f5c6dcbe5104e4c06a63cc4e1aa21bb408ca",
+      "tokenId": "4295",
+      "price": "13200000000000000000",
+      "date": "2022-07-07T01:37:53.000Z"
+    }
+  ],
+  "0x3ce499f80579f121ab1588fe7ba30d534fc0c7c7": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3ce499f80579f121ab1588fe7ba30d534fc0c7c7",
+      "seller": "0x2c2a5d6c1a75f14737eacc02ff99fad0110ea603",
+      "tokenId": "8346",
+      "price": "12270000000000000000",
+      "date": "2022-07-07T01:29:09.000Z"
+    }
+  ],
+  "0x5b857a028ad80a455a46be855ebb5e52fb9cf7de": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x5b857a028ad80a455a46be855ebb5e52fb9cf7de",
+      "seller": "0xe6df26290e8770109f89656d373408e24f7d16e0",
+      "tokenId": "9513",
+      "price": "17200000000000000000",
+      "date": "2022-07-06T19:51:36.000Z"
+    }
+  ],
+  "0x0e15977d032ba0bc7bda8733093568a3beb66c49": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0e15977d032ba0bc7bda8733093568a3beb66c49",
+      "seller": "0xb2aadf6bfc0a5213acb9c279394b46f50aea65a3",
+      "tokenId": "573",
+      "price": "14500000000000000000",
+      "date": "2022-07-06T17:39:12.000Z"
+    }
+  ],
+  "0xac7facb702d146778601ff8eb847ca42900ef6f5": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xac7facb702d146778601ff8eb847ca42900ef6f5",
+      "seller": "0xa4a4e8bd3daf6c499e4ffb51050ce52810a56abf",
+      "tokenId": "4515",
+      "price": "14990000000000000000",
+      "date": "2022-07-06T16:02:36.000Z"
+    }
+  ],
+  "0x4c6494bae0d8dd43d6396ffa2550a11219aa0f48": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x4c6494bae0d8dd43d6396ffa2550a11219aa0f48",
+      "seller": "0xa15e6ec2c6003a4cab69de59bafbd3cbd5f40ab2",
+      "tokenId": "439",
+      "price": "11690000000000000000",
+      "date": "2022-07-06T15:49:01.000Z"
+    }
+  ],
+  "0x6ba48e668c31385bd354e662895a640f83f960e4": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x6ba48e668c31385bd354e662895a640f83f960e4",
+      "seller": "0x4c6494bae0d8dd43d6396ffa2550a11219aa0f48",
+      "tokenId": "559",
+      "price": "12600000000000000000",
+      "date": "2022-07-06T07:57:52.000Z"
+    }
+  ],
+  "0x0e5af446621c2b2b45602c34870d6b10dfb81a43": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0e5af446621c2b2b45602c34870d6b10dfb81a43",
+      "seller": "0x7b04d6e2f1d2d56d42a09892402d953459e6807e",
+      "tokenId": "8260",
+      "price": "11800000000000000000",
+      "date": "2022-07-06T03:12:58.000Z"
+    }
+  ],
+  "0xf318cb5ca19e56b9225c2ad1041c85e454a387af": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xf318cb5ca19e56b9225c2ad1041c85e454a387af",
+      "seller": "0xa114717cde654577422a412d1d1829e0ce57eb70",
+      "tokenId": "6427",
+      "price": "16000000000000000000",
+      "date": "2022-07-06T02:42:51.000Z"
+    }
+  ],
+  "0x585f4fbe2d2a889c286fa71fb81d01f30773f4b1": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x585f4fbe2d2a889c286fa71fb81d01f30773f4b1",
+      "seller": "0x5f579a4dce2ccf86ca1bd6f699cbc407dcaa4a41",
+      "tokenId": "3924",
+      "price": "11750000000000000000",
+      "date": "2022-07-06T01:56:07.000Z"
+    }
+  ],
+  "0xf2cf7378e44be078732c215fad97af709379ca1d": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xf2cf7378e44be078732c215fad97af709379ca1d",
+      "seller": "0x85c05679d22c5e5253403fa83119dd65f5f8b0e1",
+      "tokenId": "7842",
+      "price": "29950000000000000000",
+      "date": "2022-07-06T01:29:26.000Z"
+    }
+  ],
+  "0x3d3fe590af3de4b0340050f8f82e3f04cac20fe3": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3d3fe590af3de4b0340050f8f82e3f04cac20fe3",
+      "seller": "0x6fb76ad8a26835384c908a239d5b46edff1f93d1",
+      "tokenId": "1329",
+      "price": "10900000000000000000",
+      "date": "2022-07-05T22:33:11.000Z"
+    }
+  ],
+  "0xe118f9fc541b0a39d5de674492a2c30eaeab7089": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xe118f9fc541b0a39d5de674492a2c30eaeab7089",
+      "seller": "0x0ec0b4bf33d028a0fd4777fd24bf001780bb91ff",
+      "tokenId": "7768",
+      "price": "900000000000000000",
+      "date": "2022-07-05T21:28:06.000Z"
+    }
+  ],
+  "0x3ad166a56aed667b1332d16c617d17929dc7af93": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3ad166a56aed667b1332d16c617d17929dc7af93",
+      "seller": "0xf318cb5ca19e56b9225c2ad1041c85e454a387af",
+      "tokenId": "4722",
+      "price": "1191750000000000000",
+      "date": "2022-07-05T13:44:45.000Z"
+    }
+  ],
+  "0xce239202371b5215aa9155c6600c4d3506bd816a": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xce239202371b5215aa9155c6600c4d3506bd816a",
+      "seller": "0x52559de1bf701622137b77eabdabf6e582c198ab",
+      "tokenId": "3511",
+      "price": "915000000000000000",
+      "date": "2022-07-05T07:07:26.000Z"
+    }
+  ],
+  "0x82645bdf744cbf95ea48b302c3c1640c873e94f0": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x82645bdf744cbf95ea48b302c3c1640c873e94f0",
+      "seller": "0x269f69ee522bf53c8f7196077f945273d11245dc",
+      "tokenId": "6166",
+      "price": "17900000000000000000",
+      "date": "2022-07-05T05:08:08.000Z"
+    }
+  ],
+  "0x751ed7ed950374d9bc035dd9de65b66d7a8394a2": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x751ed7ed950374d9bc035dd9de65b66d7a8394a2",
+      "seller": "0x6f3ec1d9b8c6527636778e3eccd1b56ed75451ed",
+      "tokenId": "2232",
+      "price": "11500000000000000000",
+      "date": "2022-07-05T04:48:09.000Z"
+    }
+  ],
+  "0x1ab8eafa2b2d052f7675a040c6a10c2fdabf6fa9": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x1ab8eafa2b2d052f7675a040c6a10c2fdabf6fa9",
+      "seller": "0xfd9bf6bdb3af9d393d0fc732658119d92406e6e4",
+      "tokenId": "7817",
+      "price": "937500000000000000",
+      "date": "2022-07-05T03:04:56.000Z"
+    }
+  ],
+  "0x8d38d31550fecd15e48b02537a726140ba6456cf": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x8d38d31550fecd15e48b02537a726140ba6456cf",
+      "seller": "0x7e402d06120c1cdeb90c9388a543863e18c1b6b3",
+      "tokenId": "6147",
+      "price": "13490000000000000000",
+      "date": "2022-07-04T17:49:43.000Z"
+    }
+  ],
+  "0xba528b2e785b1e05c64b5c48c009fca19bf23df0": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xba528b2e785b1e05c64b5c48c009fca19bf23df0",
+      "seller": "0x600235122c6299ba845e6c67f718e0854923040a",
+      "tokenId": "3017",
+      "price": "4166250000000000000",
+      "date": "2022-07-04T17:34:35.000Z"
+    }
+  ],
+  "0x3ddbd4ce10a280909b13faef284ff121b7006203": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3ddbd4ce10a280909b13faef284ff121b7006203",
+      "seller": "0x1eb4f5c6dcbe5104e4c06a63cc4e1aa21bb408ca",
+      "tokenId": "9615",
+      "price": "14750000000000000000",
+      "date": "2022-07-04T15:59:07.000Z"
+    }
+  ],
+  "0xae6b65be7a4bdf1267baa6b108860bcd75b14492": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xae6b65be7a4bdf1267baa6b108860bcd75b14492",
+      "seller": "0xe727619522eb016cdfaf2c39de535cde7565e5a4",
+      "tokenId": "4051",
+      "price": "14500000000000000000",
+      "date": "2022-07-04T14:27:05.000Z"
+    }
+  ],
+  "0x6c72f05bc7827bae229ccd9667205cbc134847a6": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x6c72f05bc7827bae229ccd9667205cbc134847a6",
+      "seller": "0xaaa35aff17fb4dff99319f217782ba33411b5c26",
+      "tokenId": "8386",
+      "price": "11499000000000000000",
+      "date": "2022-07-04T07:15:34.000Z"
+    }
+  ],
+  "0xf86aaeb9a6a8bba1e2c4317e771e1ca044449799": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xf86aaeb9a6a8bba1e2c4317e771e1ca044449799",
+      "seller": "0x5d0819b7faa51f89172d63aefdf5dba5bb84807c",
+      "tokenId": "5817",
+      "price": "15000000000000000000",
+      "date": "2022-07-04T04:50:54.000Z"
+    }
+  ],
+  "0xa287c4bf4bd3af5e464dfd367981eeaec24f9b2a": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xa287c4bf4bd3af5e464dfd367981eeaec24f9b2a",
+      "seller": "0x024878eaff0e05e559cc4fe553f64c18c0469182",
+      "tokenId": "7717",
+      "price": "12000000000000000000",
+      "date": "2022-07-04T02:33:57.000Z"
+    }
+  ],
+  "0x7670cc3a9d9bd006bf9a6dcb1fd6152e28203570": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x7670cc3a9d9bd006bf9a6dcb1fd6152e28203570",
+      "seller": "0xcfdcb37bf878870bca07b25d2c505c7e1d49f65d",
+      "tokenId": "2654",
+      "price": "16000000000000000000",
+      "date": "2022-07-03T20:23:49.000Z"
+    }
+  ],
+  "0x3f91d4ce73be89c273d753e1ec26113d571246bf": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3f91d4ce73be89c273d753e1ec26113d571246bf",
+      "seller": "0x74fec90277fef63d5aca5a0d2f6a684cf4911b7a",
+      "tokenId": "7546",
+      "price": "15000000000000000000",
+      "date": "2022-07-03T16:11:00.000Z"
+    }
+  ],
+  "0xa842946a016c6043e23733967e5981e120240ef7": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xa842946a016c6043e23733967e5981e120240ef7",
+      "seller": "0x0120eda3b9cf8934cff71aa6072c4912b0d0519b",
+      "tokenId": "1651",
+      "price": "11200000000000000000",
+      "date": "2022-07-03T15:50:25.000Z"
+    }
+  ],
+  "0xc847606081c3eaa28bc2f9b537f9e603f92fd29b": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xc847606081c3eaa28bc2f9b537f9e603f92fd29b",
+      "seller": "0xb84f365a291f727145efe71c4681e12ca7b9754e",
+      "tokenId": "663",
+      "price": "11000000000000000000",
+      "date": "2022-07-03T14:18:54.000Z"
+    }
+  ],
+  "0xb4aa5aedf4dcbe3e0755a19575e5c69164d43e70": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xb4aa5aedf4dcbe3e0755a19575e5c69164d43e70",
+      "seller": "0x137ce005c89b777bf14cfe0653373bf633d7f62d",
+      "tokenId": "4237",
+      "price": "12000000000000000000",
+      "date": "2022-07-03T14:06:23.000Z"
+    }
+  ],
+  "0x0099a4b3bad4066fe4e05f8500d115b96e155c4a": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x0099a4b3bad4066fe4e05f8500d115b96e155c4a",
+      "seller": "0x7bdc7ec8841cd7e8f463a5fc7f6f21c858e9a483",
+      "tokenId": "6161",
+      "price": "13000000000000000000",
+      "date": "2022-07-03T10:45:10.000Z"
+    }
+  ],
+  "0x9b8cacbb725e933584b9d732df934801db2391be": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x9b8cacbb725e933584b9d732df934801db2391be",
+      "seller": "0x2747cb00c975406c2f45f6f17a7b861f89d6bc5c",
+      "tokenId": "7838",
+      "price": "11490000000000000000",
+      "date": "2022-07-03T10:35:32.000Z"
+    }
+  ],
+  "0xd8d46be0eb1986a5514b7b70194e6c8535f0aa78": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xd8d46be0eb1986a5514b7b70194e6c8535f0aa78",
+      "seller": "0xb66208276563c538cdeb5cf37c815a14c915ac1f",
+      "tokenId": "5061",
+      "price": "14900000000000000000",
+      "date": "2022-07-03T05:58:09.000Z"
+    }
+  ],
+  "0x6e0ae93a0f4248cb0e28a584da7f4f3a2feb449a": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x6e0ae93a0f4248cb0e28a584da7f4f3a2feb449a",
+      "seller": "0x100bdc7550faf97e12ea838dc85f5c36c3c30fa3",
+      "tokenId": "6318",
+      "price": "13800000000000000000",
+      "date": "2022-07-03T02:18:40.000Z"
+    }
+  ],
+  "0x2d1f24c8837a94e28e0c2a5e723e190a333b00b9": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x2d1f24c8837a94e28e0c2a5e723e190a333b00b9",
+      "seller": "0x1abda388349f8d3b5787396fde07f8b25b8f5089",
+      "tokenId": "9556",
+      "price": "14696900000000000000",
+      "date": "2022-07-03T00:44:14.000Z"
+    }
+  ],
+  "0x3a197115141340b0c8788d16d6009f438b38bb4c": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x3a197115141340b0c8788d16d6009f438b38bb4c",
+      "seller": "0x6ace9cffeb1ddcdee9ed814f35a318ff61572630",
+      "tokenId": "9610",
+      "price": "11000000000000000000",
+      "date": "2022-07-02T22:21:25.000Z"
+    }
+  ],
+  "0x673c67860fe44459f9cb88cbbe41e18b802915cf": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0x673c67860fe44459f9cb88cbbe41e18b802915cf",
+      "seller": "0x824160f2aae7bae31f7719582c0a3f528a60fe6d",
+      "tokenId": "9157",
+      "price": "12000000000000000000",
+      "date": "2022-07-02T18:40:45.000Z"
+    }
+  ],
+  "0xaa60a42a50804b87b5970d42e6272d2a384fe511": [
+    {
+      "tokenAddress": "0xED5AF388653567Af2F388E6224dC7C4b3241C544",
+      "buyer": "0xaa60a42a50804b87b5970d42e6272d2a384fe511",
+      "seller": "0x3462d4f128e214f09a5483ab2613fbf13cd4e57e",
+      "tokenId": "1415",
+      "price": "11900000000000000000",
+      "date": "2022-07-02T18:09:22.000Z"
+    }
+  ]
+}
