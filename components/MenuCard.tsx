@@ -12,23 +12,34 @@ import SkipNextIcon from "@mui/icons-material/SkipNext";
 import { CardActionArea, Stack } from "@mui/material";
 import Image, { StaticImageData } from "next/image";
 import { borderRadius } from "@mui/system";
+import { useRouter } from "next/router";
 
 interface MenuCardPropsTypes {
-  name: string;
-  image: StaticImageData;
+  collection: Collection;
 }
 
-export default function MenuCard({ name, image }: MenuCardPropsTypes) {
+interface Collection {
+  name: string;
+  img: StaticImageData;
+  slug: string;
+}
+
+export default function MenuCard({ collection }: MenuCardPropsTypes) {
+  const router = useRouter();
+
   return (
     <Card sx={{ width: 300, border: "5px solid black", borderRadius: 5 }}>
-      <CardActionArea>
+      <CardActionArea
+        onClick={() => {
+          router.push(`/${collection.slug}?name=${collection.name}`);
+        }}
+      >
         <Stack direction="row">
           <Stack justifyContent="center" sx={{ flex: 1 }}>
-            <Typography textAlign="center">{name}</Typography>
+            <Typography textAlign="center">{collection.name}</Typography>
           </Stack>
-          <Box>
-            <Image src={image} height={100} width={100} />
-          </Box>
+
+          <Image src={collection.img} height={100} width={100} />
         </Stack>
       </CardActionArea>
     </Card>

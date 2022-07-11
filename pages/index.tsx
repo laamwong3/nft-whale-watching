@@ -29,7 +29,7 @@ const Home: NextPage = () => {
         >
           {allCollections.map((collection, index) => (
             <Grid item key={index}>
-              <MenuCard name={collection.name} image={collection.img} />
+              <MenuCard collection={collection} />
             </Grid>
           ))}
         </Grid>
